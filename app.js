@@ -20,3 +20,4 @@ function writeText() {
 }
 
 speedE1.addEventListener("click", (e) => speed = 300 / e.target.value);
+
