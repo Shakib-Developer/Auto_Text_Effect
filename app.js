@@ -1,6 +1,6 @@
-const textE1 = document.getElementById("txt");
-const speedE1 = document.getElementById("speed");
-const text = "We Love Pogramming";
+const textE1 = document.getElementById("txt")
+const speedE1 = document.getElementById("speed")
+const text = "We Love Pogramming"
 
 let idx = 1;
 let speed = 300 / speedE1.value;
